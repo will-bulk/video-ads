@@ -23,7 +23,7 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{
-          src: "56Y-testimonial-full.mp4",
+          src: "56YATPH7Yo0.mp4",
           name: "Terry Catlett — Catlett Trucking",
           quote: "We have 14 trucks. Six years ago we had two.",
         }}
@@ -36,7 +36,7 @@ export const RemotionRoot: React.FC = () => {
         width={1080}
         height={1920}
         defaultProps={{
-          src: "hopper-soundbite.mp4",
+          src: "4ftIJGv8rU4.mp4",
           name: "David Gleason — Hopper Fleet Owner",
           quote: "They offered the best service, the most available freight. Kind of a no-brainer.",
           sceneMap: HOPPER_SCENE_MAP,
