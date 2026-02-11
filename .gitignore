@@ -1,0 +1,11 @@
+node_modules/
+out/
+.remotion/
+dist/
+
+# Source videos (download via yt-dlp)
+public/*.mp4
+
+# Debug frames
+public/*.jpg
+public/*.txt

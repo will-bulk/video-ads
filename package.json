@@ -1,0 +1,16 @@
+{
+  "name": "remotion-testimonials",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx remotion studio src/index.ts",
+    "render": "npx remotion render src/index.ts",
+    "render-all": "npx remotion render src/index.ts trucks-growth out/trucks-growth.mp4 && npx remotion render src/index.ts revenue-growth out/revenue-growth.mp4 && npx remotion render src/index.ts hopper-bottom out/hopper-bottom.mp4"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.421",
+    "@remotion/cli": "^4.0.421",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.421"
+  }
+}
